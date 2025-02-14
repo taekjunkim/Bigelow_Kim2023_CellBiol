@@ -1,4 +1,6 @@
-# Bigelow_Kim2023_CellBiol
+### Bigelow_Kim2023_CellBiol
+https://doi.org/10.1016/j.cub.2023.01.016
+
 This repository contains data, codes to reproduce the main results of the paper
 "Dissociation in neuronal encoding of object versus surface motion in the primate brain". 
 
@@ -18,3 +20,16 @@ anova: [2×5 double]
 dir_tuning: [8×5 double]
 DI_base: [0.9167 0.5263 1 0.8889 0.5333]
 ```
+
+If you want to reproduce the findings:
+1) Download the “Bigelow2023_CB” folder which contains ‘analysisCode’ and ‘dataFiles’
+2) Open MATLAB , then move to the ‘Bigelow2023_CB > analysisCode’ folder
+3) Run make_FigureXX.m code
+
+<u>Conditions for using the data</u>
+If you publish any work using the data, please cite the publication above (Bigelow et al., 2023),
+and also cite the data set using the following:
+
+Bigelow, Anthony; Kim, Taekjun; Namima, Tomoyuki; Bair, Wyeth; Pasupathy, Anitha (2022),
+“Dataset: Dissociation in neuronal encoding of object versus surface motion in the primate
+brain”, Mendeley Data, V1, doi: 10.17632/cs76nk38zj.1
