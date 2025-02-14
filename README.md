@@ -22,7 +22,7 @@ DI_base: [0.9167 0.5263 1 0.8889 0.5333]
 ```
 
 If you want to reproduce the findings:
-1) Download the current folder which contains ‘analysisCode’ and ‘dataFiles’
+1) Download the current folder (e.g., `Bigelow2023_CB`) which contains ‘analysisCode’ and ‘dataFiles’
 2) Open MATLAB , then move to the ‘Bigelow2023_CB > analysisCode’ folder
 3) Run make_FigureXX.m code
 
