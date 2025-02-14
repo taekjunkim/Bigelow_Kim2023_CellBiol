@@ -26,7 +26,7 @@ If you want to reproduce the findings:
 2) Open MATLAB , then move to the ‘Bigelow2023_CB > analysisCode’ folder
 3) Run make_FigureXX.m code
 
-<u>Conditions for using the data</u>
+<u>Conditions for using the data</u>  
 If you publish any work using the data, please cite the publication above (Bigelow et al., 2023),
 and also cite the data set using the following:
 
