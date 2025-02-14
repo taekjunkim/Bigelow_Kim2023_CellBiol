@@ -1,4 +1,4 @@
-### Bigelow_Kim2023_CellBiol
+### ObjectMotion_CellBiol2023
 https://doi.org/10.1016/j.cub.2023.01.016
 
 This repository contains data, codes to reproduce the main results of the paper
